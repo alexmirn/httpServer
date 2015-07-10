@@ -1,0 +1,7 @@
+html    text/html; charset=UTF-8
+css     text/css
+js      application/x-javascript
+
+jpeg    image/jpeg
+jpg     image/jpeg
+png     image/png
